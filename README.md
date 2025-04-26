@@ -4,7 +4,7 @@
 
 # Ansible Demo with Docker
 
-Created by Anugya Agarwal | SAP- 500102028
+Created by Tarushi Chaudhary | SAP- 500105805
 
 This project demonstrates how to use Ansible to manage multiple Docker containers as target servers. It showcases Ansible's ability to automate server configuration and management across multiple hosts.
 
@@ -188,7 +188,6 @@ for i in {1..5}; do
 done
 ```
 
-![image](/assets/image8.png)
 
 ### 7. Create Inventory File in the current directory
 
